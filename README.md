@@ -4,7 +4,7 @@
 
 # Snakemake workflow: `mg_assembly`
 
-A Snakemake workflow for Genome Resolved Metagenomics
+A Snakemake workflow for Genome Resolved Metagenomics. Forked from the repository https://github.com/3d-omics/mg_assembly on 2026/06/29
 
 ## Features
 - Preprocessing:
